@@ -1,0 +1,9 @@
+[{"model": "players.team", "pk": 1, "fields": {"name": "Belgium"}},
+  {"model": "players.team", "pk": 2, "fields": {"name": "France"}},
+  {"model": "players.team", "pk": 3, "fields": {"name": "Italy"}},
+  {"model": "players.player", "pk": 1, "fields": {"name": "Romelu Lukaku", "notes": "Belgium's best striker", "team": 1}},
+  {"model": "players.player", "pk": 2, "fields": {"name": "Thibaut Courtois", "notes": "El Muro", "team": 1}},
+  {"model": "players.player", "pk": 3, "fields": {"name": "Karim Benzema", "notes": "Excellent striker", "team": 2}},
+  {"model": "players.player", "pk": 4, "fields": {"name": "Raphael Varane", "notes": "Great defender", "team": 2}},
+  {"model": "players.player", "pk": 5, "fields": {"name": "Moise Kean", "notes": "Superb talent", "team": 3}},
+  {"model": "players.player", "pk": 6, "fields": {"name": "Domenico Berardi", "notes": "Talented Winger", "team": 3}}]
